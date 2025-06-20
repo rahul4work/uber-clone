@@ -47,6 +47,10 @@
 
 ---
 
+
+
+## 📁 Project Structure
+
 ```
 UBER-CLONE/
 │
