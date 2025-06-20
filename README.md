@@ -223,50 +223,38 @@ npm start
 
 ## 📸 Screenshots
 
-### 👤 User Interface
+### Home Page and 👤 User Interface
 <div align="center">
 
-| Login & Registration | Home & Booking | Trip Management |
+| Home Page | User Login | New user Registration |
 |:---:|:---:|:---:|
 | ![User Login](https://github.com/user-attachments/assets/637dc70c-10b5-49d3-a1d9-27675f8cecf4) | ![User Home](https://github.com/user-attachments/assets/df961c80-ebe0-430e-9143-6c27cd33ef84) | ![Trip Booking](https://github.com/user-attachments/assets/fb8b0778-f68c-49ca-bfbc-56d49d3e3a11) |
-| *Secure authentication system* | *Interactive map interface* | *Real-time trip booking* |
 
-| Ride Selection | Payment & Confirmation | Trip History |
+| Enter location | Showing suggested location | Ride selection|
 |:---:|:---:|:---:|
 | ![Ride Options](https://github.com/user-attachments/assets/24694146-e929-466c-8060-aaa1e88bb03e) | ![Payment](https://github.com/user-attachments/assets/d1756ce5-5692-404e-8f3e-aa2d91b20721) | ![History](https://github.com/user-attachments/assets/780f9a7f-02b2-495d-9885-e72cb8f9108c) |
-| *Multiple vehicle options* | *Secure payment processing* | *Complete trip records* |
+
+| Confirm Ride | Looking for drivers |
+|:---:|:---:|
+| ![Screenshot 2025-06-20 150052](https://github.com/user-attachments/assets/fa2df255-a44d-46fc-b877-2dfc54fb068a) | ![Screenshot 2025-06-20 150113](https://github.com/user-attachments/assets/f9ffbb8c-497e-42ec-80ad-de90f9c51217) |
 
 </div>
 
 ### 🚗 Captain Interface
 <div align="center">
 
-| Dashboard & Status | Ride Requests | Navigation |
+| Captain Login | New captain registration | captain Profile |
 |:---:|:---:|:---:|
-| ![Captain Dashboard](https://github.com/user-attachments/assets/54bb4300-6386-4f58-88c4-e718fb6c1e44) | ![Ride Request](https://github.com/user-attachments/assets/fd7e62cb-b229-483c-ae4c-52336e826688) | ![GPS Navigation](https://github.com/user-attachments/assets/767dbeee-c7d2-44b1-a8f8-6ab9133bf7ac) |
-| *Driver availability toggle* | *Accept/decline requests* | *Turn-by-turn directions* |
+| ![Screenshot 2025-06-20 150244](https://github.com/user-attachments/assets/b33fb885-6589-44f0-868c-576f2323a2df) | ![Screenshot 2025-06-20 150302](https://github.com/user-attachments/assets/97db8878-4bb6-4741-82c9-e9461db66480) | ![Screenshot 2025-06-20 150354](https://github.com/user-attachments/assets/bba69793-6fcf-49f0-ae3b-594e0b529fb3) |
 
-| Trip Progress | Earnings | Profile Management |
+| Accepting User | Confirm User with Otp | Complete Ride |
 |:---:|:---:|:---:|
-| ![Trip Status](https://github.com/user-attachments/assets/4e4cda79-8df3-4034-b848-29446a765510) | ![Earnings Report](https://github.com/user-attachments/assets/f0bbbf29-fff5-458b-895e-36f135dbf930) | ![Captain Profile](https://github.com/user-attachments/assets/29086d0a-b070-4b85-96f7-bb60360d1436) |
-| *Live trip monitoring* | *Daily/weekly earnings* | *Vehicle & personal info* |
+| ![Screenshot 2025-06-20 150424](https://github.com/user-attachments/assets/2b08f389-d9a1-484d-a041-7aa3f75a72cb) | ![Screenshot 2025-06-20 150526](https://github.com/user-attachments/assets/c6f84734-288e-42bb-b852-fd13cf78af8c) | ![Screenshot 2025-06-20 150541](https://github.com/user-attachments/assets/4072cd90-505e-4bac-99e8-fc63d0425230) |
 
-</div>
-
-### 🔧 Additional Features
-<div align="center">
-
-| Real-time Tracking | Rating System | Support Chat |
-|:---:|:---:|:---:|
-| ![Live Tracking](https://github.com/user-attachments/assets/cce624e1-7da4-4383-b2fd-d958a6ad7b63) | ![Rating](https://github.com/user-attachments/assets/2acbe149-b677-451c-a389-616987975e90) | ![Support](https://github.com/user-attachments/assets/6ea0bc90-70ad-4a9e-b612-7ba9381022ff) |
-| *GPS location updates* | *5-star rating system* | *24/7 customer support* |
-
-| Admin Panel |
+| Finish Ride |
 |:---:|
-| ![Admin Dashboard](https://github.com/user-attachments/assets/e3e343b2-78e8-485f-8247-94736ed915f8) |
-| *Comprehensive analytics & management* |
+| ![Screenshot 2025-06-20 150552](https://github.com/user-attachments/assets/b6372ab3-bbaf-4e2e-8c1e-0e021c97782f) |
 
-</div>
 
 ---
 
