@@ -234,9 +234,9 @@ npm start
 |:---:|:---:|:---:|
 | ![Ride Options](https://github.com/user-attachments/assets/24694146-e929-466c-8060-aaa1e88bb03e) | ![Payment](https://github.com/user-attachments/assets/d1756ce5-5692-404e-8f3e-aa2d91b20721) | ![History](https://github.com/user-attachments/assets/780f9a7f-02b2-495d-9885-e72cb8f9108c) |
 
-| Confirm Ride | Looking for driver |
+| Confirm Ride | Looking for driver | - |
 |:---:|:---:|:---:|
-| ![Screenshot 2025-06-20 150052](https://github.com/user-attachments/assets/fa2df255-a44d-46fc-b877-2dfc54fb068a) | ![Screenshot 2025-06-20 150113](https://github.com/user-attachments/assets/f9ffbb8c-497e-42ec-80ad-de90f9c51217) |
+| ![Screenshot 2025-06-20 150052](https://github.com/user-attachments/assets/fa2df255-a44d-46fc-b877-2dfc54fb068a) | ![Screenshot 2025-06-20 150113](https://github.com/user-attachments/assets/f9ffbb8c-497e-42ec-80ad-de90f9c51217) | - |
 
 </div>
 
@@ -251,9 +251,9 @@ npm start
 |:---:|:---:|:---:|
 | ![Screenshot 2025-06-20 150424](https://github.com/user-attachments/assets/2b08f389-d9a1-484d-a041-7aa3f75a72cb) | ![Screenshot 2025-06-20 150526](https://github.com/user-attachments/assets/c6f84734-288e-42bb-b852-fd13cf78af8c) | ![Screenshot 2025-06-20 150541](https://github.com/user-attachments/assets/4072cd90-505e-4bac-99e8-fc63d0425230) |
 
-| Finish Ride |
+| Finish Ride | - | - |
 |:---:|:---:|:---:|
-| ![Screenshot 2025-06-20 150552](https://github.com/user-attachments/assets/b6372ab3-bbaf-4e2e-8c1e-0e021c97782f) |
+| ![Screenshot 2025-06-20 150552](https://github.com/user-attachments/assets/b6372ab3-bbaf-4e2e-8c1e-0e021c97782f) | - | - |
 
 
 ---
