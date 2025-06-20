@@ -47,34 +47,62 @@
 
 ---
 
-## 📁 Project Structure
-
+```
 UBER-CLONE/
 │
 ├── Backend/
-│ ├── controllers/
-│ ├── db/
-│ ├── middlewares/
-│ ├── models/
-│ ├── routes/
-│ ├── services/
-│ ├── .env
-│ ├── app.js
-│ ├── server.js
-│ ├── package.json
-│ └── README.md
+│   ├── controllers/         # Route controllers
+│   │   ├── authController.js
+│   │   ├── userController.js
+│   │   ├── rideController.js
+│   │   └── paymentController.js
+│   ├── db/                  # Database connection
+│   │   └── connection.js
+│   ├── middlewares/         # Custom middleware
+│   │   ├── auth.js
+│   │   ├── errorHandler.js
+│   │   └── validation.js
+│   ├── models/              # Mongoose models
+│   │   ├── User.js
+│   │   ├── Driver.js
+│   │   ├── Ride.js
+│   │   └── Payment.js
+│   ├── routes/              # API routes
+│   │   ├── auth.js
+│   │   ├── users.js
+│   │   ├── rides.js
+│   │   └── payments.js
+│   ├── services/            # Business logic
+│   │   ├── emailService.js
+│   │   ├── mapService.js
+│   │   └── paymentService.js
+│   ├── .env                 # Environment variables
+│   ├── app.js               # Express app configuration
+│   ├── server.js            # Server entry point
+│   └── package.json
 │
-├── Frontend/
-│ ├── public/
-│ ├── src/
-│ ├── .env
-│ ├── index.html
-│ ├── tailwind.config.js
-│ ├── vite.config.js
-│ ├── vercel.json
-│ ├── package.json
-│ └── README.md
-
+└── Frontend/
+    ├── public/              # Static assets
+    ├── src/
+    │   ├── components/      # Reusable components
+    │   │   ├── common/
+    │   │   ├── forms/
+    │   │   └── maps/
+    │   ├── pages/           # Page components
+    │   │   ├── auth/
+    │   │   ├── rider/
+    │   │   └── driver/
+    │   ├── hooks/           # Custom React hooks
+    │   ├── services/        # API services
+    │   ├── utils/           # Utility functions
+    │   ├── context/         # React context providers
+    │   └── App.jsx          # Main app component
+    ├── .env                 # Environment variables
+    ├── index.html
+    ├── tailwind.config.js
+    ├── vite.config.js
+    └── package.json
+```
 
 ---
 
@@ -94,7 +122,53 @@ UBER-CLONE/
   - Pickup & drop location selection
   - Route directions & distance calculation
 
+
 ---
+
+
+## 📬 API Endpoints Overview
+
+### Authentication
+- `POST /api/auth/register` - User registration
+- `POST /api/auth/login` - User login
+- `POST /api/auth/logout` - User logout
+- `GET /api/auth/me` - Get current user
+
+### Users
+- `GET /api/users/profile` - Get user profile
+- `PUT /api/users/profile` - Update user profile
+- `POST /api/users/upload-avatar` - Upload profile picture
+
+### Rides
+- `POST /api/rides/request` - Request a ride
+- `GET /api/rides/active` - Get active rides
+- `GET /api/rides/history` - Get ride history
+- `PUT /api/rides/:id/accept` - Accept ride (driver)
+- `PUT /api/rides/:id/start` - Start ride
+- `PUT /api/rides/:id/complete` - Complete ride
+
+### Payments
+- `POST /api/payments/create-intent` - Create payment intent
+- `POST /api/payments/confirm` - Confirm payment
+- `GET /api/payments/history` - Payment history
+
+## 🧪 Testing
+
+### Backend Testing
+```bash
+cd Backend
+npm test
+```
+
+### Frontend Testing
+```bash
+cd Frontend
+npm test
+```
+
+
+---
+
 
 ## 🚦 Setup & Installation
 
@@ -136,23 +210,6 @@ npm run dev
 ```bash
 npm start
 ```
-
----
-
-
-## 📬 API Endpoints Overview
-🔑 Auth Routes
-Method	Route	Description
-POST	/users/register	Register user
-POST	/users/login	Login user
-GET	/users/profile	Get user profile
-POST	/users/logout	Logout user
-
-Method	Route	Description
-POST	/captains/register	Register captain
-POST	/captains/login	Login captain
-GET	/captains/profile	Get captain profile
-POST	/captains/logout	Logout captain
 
 
 ---
