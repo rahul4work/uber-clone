@@ -230,11 +230,11 @@ npm start
 |:---:|:---:|:---:|
 | ![User Login](https://github.com/user-attachments/assets/637dc70c-10b5-49d3-a1d9-27675f8cecf4) | ![User Home](https://github.com/user-attachments/assets/df961c80-ebe0-430e-9143-6c27cd33ef84) | ![Trip Booking](https://github.com/user-attachments/assets/fb8b0778-f68c-49ca-bfbc-56d49d3e3a11) |
 
-| Enter location | Showing suggested location | Ride selection|
+| Enter location | Showing suggested locations | Ride selection|
 |:---:|:---:|:---:|
 | ![Ride Options](https://github.com/user-attachments/assets/24694146-e929-466c-8060-aaa1e88bb03e) | ![Payment](https://github.com/user-attachments/assets/d1756ce5-5692-404e-8f3e-aa2d91b20721) | ![History](https://github.com/user-attachments/assets/780f9a7f-02b2-495d-9885-e72cb8f9108c) |
 
-| Confirm Ride | Looking for drivers |
+| Confirm Ride | Looking for driver |
 |:---:|:---:|
 | ![Screenshot 2025-06-20 150052](https://github.com/user-attachments/assets/fa2df255-a44d-46fc-b877-2dfc54fb068a) | ![Screenshot 2025-06-20 150113](https://github.com/user-attachments/assets/f9ffbb8c-497e-42ec-80ad-de90f9c51217) |
 
